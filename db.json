@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 983311521,
+      "created at": "2021-09-04",
+      "modified at": "2021-09-04T01:01:00.000Z",
+      "name": "Redmi Note 8",
+      "price": 12000,
+      "description": "4 GB RAM, 64 GB ROM"
+    }
+  ],
+  "users": [
+    {
+      "id": 118173015,
+      "name": "Adam",
+      "email": "admin@gmail.com",
+      "mobile": "7096473525",
+      "age": 20,
+      "gender": "male"
+    },
+    {
+      "id": 231821077,
+      "name": "Erik",
+      "email": "erik@gmail.com",
+      "age": 25,
+      "mobile": "9458554685",
+      "gender": "male"
+    },
+    {
+      "id": 264738317,
+      "name": "Flash",
+      "email": "flash@gmail.com",
+      "mobile": "9428156325",
+      "age": 23,
+      "gender": "male"
+    },
+    {
+      "id": 803404681,
+      "name": "derek",
+      "email": "derek@gmail.com",
+      "mobile": "8866450977",
+      "age": 22,
+      "gender": "male"
+    }
+  ]
+}
